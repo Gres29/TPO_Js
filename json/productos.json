@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "tipo": "Amplificador",
+        "nombre": "Amplificador Marshall",
+        "precio": 75000,
+        "foto": "../media/products/Amplificador.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Bateria",
+        "nombre": "Bateria Electronica Nux Dm7x",
+        "precio": 420000,
+        "foto": "../media/products/Bateria.jpg"
+    }, {
+        "id": 3,
+        "tipo": "Guitarra",
+        "nombre": "Guitarra Acustica",
+        "precio": 80000,
+        "foto": "../media/products/Guitarra.jpg"
+    }, {
+        "id": 4,
+        "tipo": "Guitarra",
+        "nombre": "Guitarras Electricas Fender - Varios modelos",
+        "precio": 600000,
+        "foto": "../media/products/GuitarraElectrica.jpg"
+    }
+]
